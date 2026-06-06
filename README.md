@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vasanth-v&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/VasanthDrago001/Vasanth_Projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vasanth--v-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth-v-311181396)
-[![GitHub](https://img.shields.io/badge/GitHub-vasanth--v-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vasanth-v)
+[![GitHub](https://img.shields.io/badge/GitHub-vasanth--v-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VasanthDrago001/Vasanth_Projects)
 [![Email](https://img.shields.io/badge/Email-vasanthdrago001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vasanthdrago001@gmail.com)
 
 </div>
@@ -92,10 +92,10 @@ class Vasanth:
 
 <div align="center">
 
-<a href="https://github.com/vasanth-v">
+<a href="https://github.com/VasanthDrago001/Vasanth_Projects">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vasanth-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/vasanth-v">
+<a href="https://github.com/VasanthDrago001/Vasanth_Projects">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -214,7 +214,7 @@ class Vasanth:
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth-v-311181396)
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthdrago001@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasanth-v)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthDrago001/Vasanth_Projects)
 
 </div>
 
