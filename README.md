@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vasanth+V+%F0%9F%91%8B;Full-Stack+Developer+%7C+PHP+%2B+Python+%2B+React.js;AI+Integration+%26+Test+Automation+Enthusiast;Building+Reliable+Software+Since+2021)](https://readme-typing-svg.demolab.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vasanth-v&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/VasanthDrago001/Vasanth_Projects)
+[![Profile Views](https://komarev.com/ghpvc/?username=VasanthDrago001&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/VasanthDrago001/Vasanth_Projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vasanth--v-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth-v-311181396)
-[![GitHub](https://img.shields.io/badge/GitHub-vasanth--v-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VasanthDrago001/Vasanth_Projects)
+[![GitHub](https://img.shields.io/badge/GitHub-VasanthDrago001-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VasanthDrago001/Vasanth_Projects)
 [![Email](https://img.shields.io/badge/Email-vasanthdrago001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vasanthdrago001@gmail.com)
 
 </div>
@@ -93,10 +93,10 @@ class Vasanth:
 <div align="center">
 
 <a href="https://github.com/VasanthDrago001/Vasanth_Projects">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vasanth-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VasanthDrago001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/VasanthDrago001/Vasanth_Projects">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasanthDrago001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -107,7 +107,7 @@ class Vasanth:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vasanth-v&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=vasanth-v)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VasanthDrago001&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=VasanthDrago001)
 
 </div>
 
@@ -117,7 +117,7 @@ class Vasanth:
 
 <div align="center">
 
-[![Vasanth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasanth-v&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app)
+[![Vasanth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VasanthDrago001&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app)
 
 </div>
 
@@ -127,7 +127,7 @@ class Vasanth:
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vasanth-v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github-profile-trophy.vercel.app/?username=vasanth-v)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VasanthDrago001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github-profile-trophy.vercel.app/?username=VasanthDrago001)
 
 </div>
 
