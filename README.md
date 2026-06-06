@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vasanth+V+%F0%9F%91%8B;Full-Stack+Developer+%7C+PHP+%2B+Python+%2B+React.js;AI+Integration+%26+Test+Automation+Enthusiast;Building+Reliable+Software+Since+2021)](https://readme-typing-svg.demolab.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vasanth-v&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vasanth-v)
+[![Profile Views](https://komarev.com/ghpvc/?username=vasanth-v&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/VasanthDrago001/Vasanth_Projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vasanth--v-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth-v-311181396)
 [![GitHub](https://img.shields.io/badge/GitHub-vasanth--v-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vasanth-v)
 [![Email](https://img.shields.io/badge/Email-vasanthdrago001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vasanthdrago001@gmail.com)
